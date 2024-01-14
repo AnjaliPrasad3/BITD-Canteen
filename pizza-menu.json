@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Biryani",
+  "image": "biryani.jpeg",
+  "price": "250",
+  "size": "full"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Idli",
+  "image": "idli.jpeg",
+  "price": "300",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Chole Bhature",
+  "image": "cholebhatore.jpeg",
+  "price": "200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Gulabjamun",
+  "image": "gulabjamun.jpeg",
+  "price": "500",
+  "size": "large"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Tanduri Chicken",
+  "image": "tanduriChicken.jpeg",
+  "price": "350",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Paneer pizza",
+  "image": "lachhaParatha.jpeg",
+  "price": "200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Kadhai Paneer",
+  "image": "kadhaiPaneer.jpeg",
+  "price": "600",
+  "size": "large"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Dahi Vada",
+  "image": "dahiVada.jpg",
+  "price": "500",
+  "size": "medium"
+}]
